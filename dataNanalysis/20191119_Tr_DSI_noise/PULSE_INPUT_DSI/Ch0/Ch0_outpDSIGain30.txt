@@ -1,0 +1,186 @@
+G30_RC5_O120_Ch0_DSI_PulseIn_20191119_135431.txt
+amp_mean 61727.4
+amp_sigm 46.07
+RCtconst 0.727
+RCtmcErr 0.078
+
+G30_RC5_O120_Ch0_DSI_PulseIn_20191119_135430.txt
+amp_mean 61733.1
+amp_sigm 47.22
+RCtconst 0.727
+RCtmcErr 0.078
+
+G30_RC5_O120_Ch0_DSI_PulseIn_20191119_135432.txt
+amp_mean 61730.8
+amp_sigm 47.37
+RCtconst 0.727
+RCtmcErr 0.078
+
+G30_RC11_O120_Ch0_DSI_PulseIn_20191119_135458.txt
+amp_mean 90971.1
+amp_sigm 102.8
+RCtconst 0.494
+RCtmcErr 0.053
+
+G30_RC7_O120_Ch0_DSI_PulseIn_20191119_135438.txt
+amp_mean 67958.2
+amp_sigm 58.02
+RCtconst 0.661
+RCtmcErr 0.071
+
+G30_RC7_O120_Ch0_DSI_PulseIn_20191119_135439.txt
+amp_mean 67968.8
+amp_sigm 60.26
+RCtconst 0.661
+RCtmcErr 0.071
+
+G30_RC15_O120_Ch0_DSI_PulseIn_20191119_135517.txt
+amp_mean 104548
+amp_sigm 134
+RCtconst 0.429
+RCtmcErr 0.046
+
+G30_RC15_O120_Ch0_DSI_PulseIn_20191119_135516.txt
+amp_mean 104548
+amp_sigm 138.9
+RCtconst 0.429
+RCtmcErr 0.046
+
+G30_RC13_O120_Ch0_DSI_PulseIn_20191119_135508.txt
+amp_mean 98621.5
+amp_sigm 115
+RCtconst 0.455
+RCtmcErr 0.049
+
+G30_RC13_O120_Ch0_DSI_PulseIn_20191119_135509.txt
+amp_mean 98618
+amp_sigm 119.2
+RCtconst 0.455
+RCtmcErr 0.049
+
+G30_RC9_O120_Ch0_DSI_PulseIn_20191119_135447.txt
+amp_mean 85062.6
+amp_sigm 89.84
+RCtconst 0.528
+RCtmcErr 0.056
+
+G30_RC9_O120_Ch0_DSI_PulseIn_20191119_135449.txt
+amp_mean 85065.7
+amp_sigm 92.62
+RCtconst 0.528
+RCtmcErr 0.056
+
+G30_RC17_O120_Ch0_DSI_PulseIn_20191119_135559.txt
+amp_mean 120567
+amp_sigm 170.7
+RCtconst 0.372
+RCtmcErr 0.04
+
+G30_RC9_O120_Ch0_DSI_PulseIn_20191119_135448.txt
+amp_mean 85061.7
+amp_sigm 87.86
+RCtconst 0.528
+RCtmcErr 0.056
+
+G30_RC19_O120_Ch0_DSI_PulseIn_20191119_135621.txt
+amp_mean 125914
+amp_sigm 181.3
+RCtconst 0.357
+RCtmcErr 0.038
+
+G30_RC19_O120_Ch0_DSI_PulseIn_20191119_135619.txt
+amp_mean 125931
+amp_sigm 178.1
+RCtconst 0.357
+RCtmcErr 0.038
+
+G30_RC17_O120_Ch0_DSI_PulseIn_20191119_135601.txt
+amp_mean 120572
+amp_sigm 182.9
+RCtconst 0.372
+RCtmcErr 0.04
+
+G30_RC19_O120_Ch0_DSI_PulseIn_20191119_135618.txt
+amp_mean 125918
+amp_sigm 180.1
+RCtconst 0.357
+RCtmcErr 0.038
+
+G30_RC17_O120_Ch0_DSI_PulseIn_20191119_135602.txt
+amp_mean 120576
+amp_sigm 174.1
+RCtconst 0.372
+RCtmcErr 0.04
+
+G30_RC7_O120_Ch0_DSI_PulseIn_20191119_135440.txt
+amp_mean 67962.6
+amp_sigm 56.99
+RCtconst 0.661
+RCtmcErr 0.071
+
+G30_RC1_O120_Ch0_DSI_PulseIn_20191119_135412.txt
+amp_mean 46583.4
+amp_sigm 28.39
+RCtconst 0.964
+RCtmcErr 0.1
+
+G30_RC13_O120_Ch0_DSI_PulseIn_20191119_135510.txt
+amp_mean 98614.6
+amp_sigm 120.2
+RCtconst 0.455
+RCtmcErr 0.049
+
+G30_RC3_O120_Ch0_DSI_PulseIn_20191119_135424.txt
+amp_mean 53238.8
+amp_sigm 32.84
+RCtconst 0.843
+RCtmcErr 0.09
+
+G30_RC15_O120_Ch0_DSI_PulseIn_20191119_135519.txt
+amp_mean 104554
+amp_sigm 135.6
+RCtconst 0.429
+RCtmcErr 0.046
+
+G30_RC1_O120_Ch0_DSI_PulseIn_20191119_135413.txt
+amp_mean 46582
+amp_sigm 28.06
+RCtconst 0.964
+RCtmcErr 0.1
+
+G30_RC3_O120_Ch0_DSI_PulseIn_20191119_135423.txt
+amp_mean 53235.2
+amp_sigm 33.93
+RCtconst 0.843
+RCtmcErr 0.09
+
+G30_RC1_O120_Ch0_DSI_PulseIn_20191119_135415.txt
+amp_mean 46582.2
+amp_sigm 28.71
+RCtconst 0.964
+RCtmcErr 0.1
+
+G30_RC11_O120_Ch0_DSI_PulseIn_20191119_135457.txt
+amp_mean 90955
+amp_sigm 105.5
+RCtconst 0.494
+RCtmcErr 0.053
+
+G30_RC3_O120_Ch0_DSI_PulseIn_20191119_135421.txt
+amp_mean 53233
+amp_sigm 33.21
+RCtconst 0.843
+RCtmcErr 0.09
+
+G30_RC11_O120_Ch0_DSI_PulseIn_20191119_135456.txt
+amp_mean 90953.8
+amp_sigm 100.2
+RCtconst 0.494
+RCtmcErr 0.053
+
+G30_RC15_O120_Ch0_DSI_PulseIn_20191119_135520.txt
+amp_mean 104548
+amp_sigm 135.8
+RCtconst 0.429
+RCtmcErr 0.046
+

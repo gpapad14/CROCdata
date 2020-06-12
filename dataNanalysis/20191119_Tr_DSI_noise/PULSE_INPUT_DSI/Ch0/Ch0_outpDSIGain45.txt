@@ -1,0 +1,126 @@
+G45_RC7_O120_Ch0_DSI_PulseIn_20191119_135740.txt
+amp_mean 79803.2
+amp_sigm 80.17
+RCtconst 0.773
+RCtmcErr 0.083
+
+G45_RC7_O120_Ch0_DSI_PulseIn_20191119_135741.txt
+amp_mean 79802.7
+amp_sigm 80.21
+RCtconst 0.773
+RCtmcErr 0.083
+
+G45_RC7_O120_Ch0_DSI_PulseIn_20191119_135742.txt
+amp_mean 79803.5
+amp_sigm 79.1
+RCtconst 0.773
+RCtmcErr 0.083
+
+G45_RC11_O120_Ch0_DSI_PulseIn_20191119_135805.txt
+amp_mean 113101
+amp_sigm 152.3
+RCtconst 0.546
+RCtmcErr 0.058
+
+G45_RC11_O120_Ch0_DSI_PulseIn_20191119_135804.txt
+amp_mean 113111
+amp_sigm 155.4
+RCtconst 0.546
+RCtmcErr 0.058
+
+G45_RC11_O120_Ch0_DSI_PulseIn_20191119_135806.txt
+amp_mean 113102
+amp_sigm 154.3
+RCtconst 0.546
+RCtmcErr 0.058
+
+G45_RC3_O120_Ch0_DSI_PulseIn_20191119_135721.txt
+amp_mean 58517.8
+amp_sigm 42.02
+RCtconst 1.05
+RCtmcErr 0.11
+
+G45_RC1_O120_Ch0_DSI_PulseIn_20191119_135648.txt
+amp_mean 48852.7
+amp_sigm 29.24
+RCtconst 1.26
+RCtmcErr 0.14
+
+G45_RC3_O120_Ch0_DSI_PulseIn_20191119_135722.txt
+amp_mean 58518.8
+amp_sigm 41.01
+RCtconst 1.05
+RCtmcErr 0.11
+
+G45_RC3_O120_Ch0_DSI_PulseIn_20191119_135723.txt
+amp_mean 58520.9
+amp_sigm 40.55
+RCtconst 1.05
+RCtmcErr 0.11
+
+G45_RC5_O120_Ch0_DSI_PulseIn_20191119_135732.txt
+amp_mean 70821.6
+amp_sigm 60.97
+RCtconst 0.871
+RCtmcErr 0.093
+
+G45_RC13_O120_Ch0_DSI_PulseIn_20191119_135813.txt
+amp_mean 124391
+amp_sigm 165.3
+RCtconst 0.496
+RCtmcErr 0.053
+
+G45_RC1_O120_Ch0_DSI_PulseIn_20191119_135645.txt
+amp_mean 48855.1
+amp_sigm 29.65
+RCtconst 1.26
+RCtmcErr 0.14
+
+G45_RC5_O120_Ch0_DSI_PulseIn_20191119_135731.txt
+amp_mean 70818.4
+amp_sigm 60.14
+RCtconst 0.871
+RCtmcErr 0.093
+
+G45_RC1_O120_Ch0_DSI_PulseIn_20191119_135646.txt
+amp_mean 48850.2
+amp_sigm 29.35
+RCtconst 1.26
+RCtmcErr 0.14
+
+G45_RC5_O120_Ch0_DSI_PulseIn_20191119_135734.txt
+amp_mean 70822.7
+amp_sigm 63.12
+RCtconst 0.871
+RCtmcErr 0.093
+
+G45_RC13_O120_Ch0_DSI_PulseIn_20191119_135814.txt
+amp_mean 124382
+amp_sigm 171.5
+RCtconst 0.496
+RCtmcErr 0.053
+
+G45_RC13_O120_Ch0_DSI_PulseIn_20191119_135815.txt
+amp_mean 124375
+amp_sigm 164.5
+RCtconst 0.496
+RCtmcErr 0.053
+
+G45_RC9_O120_Ch0_DSI_PulseIn_20191119_135754.txt
+amp_mean 104305
+amp_sigm 134.6
+RCtconst 0.592
+RCtmcErr 0.063
+
+G45_RC9_O120_Ch0_DSI_PulseIn_20191119_135752.txt
+amp_mean 104306
+amp_sigm 134.5
+RCtconst 0.592
+RCtmcErr 0.063
+
+G45_RC9_O120_Ch0_DSI_PulseIn_20191119_135753.txt
+amp_mean 104310
+amp_sigm 132.9
+RCtconst 0.592
+RCtmcErr 0.063
+

@@ -1,0 +1,48 @@
+README_Settings file, Date: 20 Dec 2019
+
+2 parts: (A) measure the input signal amplitude with the oscilloscope 
+	and (B) send pulses with different amplitude to the CROC.
+
+A) Keysight 33600A Series waveform generator
+Setup: Generator -> BNC cable to Oscilloscope with nothing else. 
+	*I do not split the signal and send it to CROC.
+	Filenames: INA"XX"F__.CSV
+		XX = 3, 7, 9, 11 mV
+		__ = nothing, 01, 02 (3 files for each value)
+		time division scale = 2ms/square
+		voltage div scale = 500uV (3mV), 1mV (7,9mV), 2mV (11mV)
+		Generate pusle with the FPGA trigger as I do when I take measurements, so the period of the pulses is 20us even though the set frequency is 100kHz.
+	I have taken before measurements for the input ampl 5mV
+
+B) Setup: Generator -> BNC_to_SMA cable directly to CROC (no split on the oscilloscope)
+	CROC->BEB_to_CROC->BEB->FPGA
+	FPGA SMAout send the trigger pulse to generator.
+	BEB power supply the same as always.
+
+	Generator:
+		freq set =100kHz -> actual input period 20us
+		High lvl = 3, 5, 7, 9 mV
+		Low lvl = 0V
+		pulse width = 6us
+		edge time = 2.9ns
+		Burst option
+
+	LabView: CROC_TEST2.vi
+	Firmware: ...v2_TS1_TS2_1Mhz
+	TS: ..._GP_TrTSfile.txt
+
+	CROC LabView configuration
+	Signal to only Ch0, rest NEN=on, CF1=OFF, Gain=0
+	POL=POLIB=127
+	Offset=120
+	NEN=V1=Transp=ON
+
+	TS1= 2200 samples
+	TS2=1
+	conv = 6 (6 points per sample)
+
+	Input amplitude vs Gain
+	3mV -> 10, 20, ... 50, 63	+ CF1
+	5mV -> 5, 10, 20 ... 50, 63 + CF1
+	7mV -> 5, 10, 20, ... 50,55 + CF1
+	9mV -> 2, 10, 15, 20, [25], 30, 35 + CF1     * no measurement for 25, very bad

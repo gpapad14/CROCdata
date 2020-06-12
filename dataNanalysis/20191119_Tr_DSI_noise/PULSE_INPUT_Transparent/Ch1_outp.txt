@@ -1,0 +1,342 @@
+CF1_O120_Ch1_PulseIn_20191119_114917.txt
+amp_mean 45988.7
+amp_sigm 188.9
+abs_gain 195.3
+abs_gErr 14.8
+
+G35_O120_Ch1_PulseIn_20191119_115111.txt
+amp_mean 50535.2
+amp_sigm 173.3
+abs_gain 214.6
+abs_gErr 16.2
+
+CF1_O120_Ch1_PulseIn_20191119_114916.txt
+amp_mean 45994.8
+amp_sigm 185.7
+abs_gain 195.3
+abs_gErr 14.8
+
+G30_O120_Ch1_PulseIn_20191119_115057.txt
+amp_mean 44847.1
+amp_sigm 152
+abs_gain 190.4
+abs_gErr 14.4
+
+G45_O120_Ch1_PulseIn_20191119_115138.txt
+amp_mean 61130.8
+amp_sigm 215.2
+abs_gain 259.6
+abs_gErr 19.6
+
+CF1_O120_Ch1_PulseIn_20191119_114914.txt
+amp_mean 46006.9
+amp_sigm 187
+abs_gain 195.3
+abs_gErr 14.8
+
+G5_O120_Ch1_PulseIn_20191119_114934.txt
+amp_mean 11019.2
+amp_sigm 40.74
+abs_gain 46.79
+abs_gErr 3.54
+
+G35_O120_Ch1_PulseIn_20191119_115112.txt
+amp_mean 50525.4
+amp_sigm 179.5
+abs_gain 214.5
+abs_gErr 16.2
+
+G40_O120_Ch1_PulseIn_20191119_115126.txt
+amp_mean 55709.2
+amp_sigm 194.5
+abs_gain 236.5
+abs_gErr 17.9
+
+G5_O120_Ch1_PulseIn_20191119_114931.txt
+amp_mean 11019.1
+amp_sigm 41.71
+abs_gain 46.79
+abs_gErr 3.54
+
+G5_O120_Ch1_PulseIn_20191119_114930.txt
+amp_mean 11014.9
+amp_sigm 42.95
+abs_gain 46.77
+abs_gErr 3.54
+
+G40_O120_Ch1_PulseIn_20191119_115125.txt
+amp_mean 55716.3
+amp_sigm 199
+abs_gain 236.6
+abs_gErr 17.9
+
+G25_O120_Ch1_PulseIn_20191119_115048.txt
+amp_mean 38773.5
+amp_sigm 140.9
+abs_gain 164.6
+abs_gErr 12.5
+
+G35_O120_Ch1_PulseIn_20191119_115114.txt
+amp_mean 50526.8
+amp_sigm 169.2
+abs_gain 214.5
+abs_gErr 16.2
+
+G5_O120_Ch1_PulseIn_20191119_114933.txt
+amp_mean 11021.1
+amp_sigm 42.54
+abs_gain 46.8
+abs_gErr 3.54
+
+G55_O120_Ch1_PulseIn_20191119_115206.txt
+amp_mean 71371.2
+amp_sigm 250.6
+abs_gain 303
+abs_gErr 22.9
+
+G60_O120_Ch1_PulseIn_20191119_115220.txt
+amp_mean 76205.2
+amp_sigm 270.9
+abs_gain 323.6
+abs_gErr 24.5
+
+G10_O120_Ch1_PulseIn_20191119_115008.txt
+amp_mean 18526.8
+amp_sigm 59.89
+abs_gain 78.67
+abs_gErr 5.95
+
+G20_O120_Ch1_PulseIn_20191119_115034.txt
+amp_mean 32373.7
+amp_sigm 109.8
+abs_gain 137.5
+abs_gErr 10.4
+
+G50_O120_Ch1_PulseIn_20191119_115156.txt
+amp_mean 66374.1
+amp_sigm 229.7
+abs_gain 281.8
+abs_gErr 21.3
+
+G60_O120_Ch1_PulseIn_20191119_115221.txt
+amp_mean 76181.3
+amp_sigm 275.3
+abs_gain 323.5
+abs_gErr 24.5
+
+G55_O120_Ch1_PulseIn_20191119_115207.txt
+amp_mean 71420.2
+amp_sigm 285.2
+abs_gain 303.3
+abs_gErr 22.9
+
+G60_O120_Ch1_PulseIn_20191119_115223.txt
+amp_mean 76201.8
+amp_sigm 265.6
+abs_gain 323.6
+abs_gErr 24.5
+
+G20_O120_Ch1_PulseIn_20191119_115036.txt
+amp_mean 32360.5
+amp_sigm 103.4
+abs_gain 137.4
+abs_gErr 10.4
+
+G50_O120_Ch1_PulseIn_20191119_115155.txt
+amp_mean 66369.3
+amp_sigm 230.8
+abs_gain 281.8
+abs_gErr 21.3
+
+G55_O120_Ch1_PulseIn_20191119_115204.txt
+amp_mean 71386.1
+amp_sigm 260.7
+abs_gain 303.1
+abs_gErr 22.9
+
+G20_O120_Ch1_PulseIn_20191119_115033.txt
+amp_mean 32356.6
+amp_sigm 113.9
+abs_gain 137.4
+abs_gErr 10.4
+
+G50_O120_Ch1_PulseIn_20191119_115150.txt
+amp_mean 66360.9
+amp_sigm 226.1
+abs_gain 281.8
+abs_gErr 21.3
+
+G55_O120_Ch1_PulseIn_20191119_115203.txt
+amp_mean 71407.6
+amp_sigm 259.1
+abs_gain 303.2
+abs_gErr 22.9
+
+G50_O120_Ch1_PulseIn_20191119_115152.txt
+amp_mean 66371.5
+amp_sigm 240
+abs_gain 281.8
+abs_gErr 21.3
+
+G20_O120_Ch1_PulseIn_20191119_115031.txt
+amp_mean 32372.7
+amp_sigm 109.9
+abs_gain 137.5
+abs_gErr 10.4
+
+G50_O120_Ch1_PulseIn_20191119_115153.txt
+amp_mean 66378.5
+amp_sigm 235.4
+abs_gain 281.8
+abs_gErr 21.3
+
+G60_O120_Ch1_PulseIn_20191119_115218.txt
+amp_mean 76186.5
+amp_sigm 261.9
+abs_gain 323.5
+abs_gErr 24.5
+
+G63_O120_Ch1_PulseIn_20191119_115234.txt
+amp_mean 78997.8
+amp_sigm 283.9
+abs_gain 335.4
+abs_gErr 25.4
+
+G63_O120_Ch1_PulseIn_20191119_115236.txt
+amp_mean 78966.9
+amp_sigm 284.7
+abs_gain 335.3
+abs_gErr 25.4
+
+G15_O120_Ch1_PulseIn_20191119_115019.txt
+amp_mean 25640.3
+amp_sigm 85.87
+abs_gain 108.9
+abs_gErr 8.23
+
+G55_O120_Ch1_PulseIn_20191119_115209.txt
+amp_mean 71386.4
+amp_sigm 257.1
+abs_gain 303.1
+abs_gErr 22.9
+
+G63_O120_Ch1_PulseIn_20191119_115233.txt
+amp_mean 78979.8
+amp_sigm 278.8
+abs_gain 335.4
+abs_gErr 25.4
+
+G15_O120_Ch1_PulseIn_20191119_115020.txt
+amp_mean 25643.9
+amp_sigm 84.62
+abs_gain 108.9
+abs_gErr 8.23
+
+G10_O120_Ch1_PulseIn_20191119_115007.txt
+amp_mean 18525.9
+amp_sigm 60.99
+abs_gain 78.66
+abs_gErr 5.95
+
+G45_O120_Ch1_PulseIn_20191119_115140.txt
+amp_mean 61120.6
+amp_sigm 208.6
+abs_gain 259.5
+abs_gErr 19.6
+
+G10_O120_Ch1_PulseIn_20191119_115010.txt
+amp_mean 18526.4
+amp_sigm 64.81
+abs_gain 78.66
+abs_gErr 5.95
+
+G15_O120_Ch1_PulseIn_20191119_115022.txt
+amp_mean 25639.9
+amp_sigm 86.42
+abs_gain 108.9
+abs_gErr 8.23
+
+G10_O120_Ch1_PulseIn_20191119_115005.txt
+amp_mean 18519
+amp_sigm 60.31
+abs_gain 78.63
+abs_gErr 5.95
+
+G63_O120_Ch1_PulseIn_20191119_115231.txt
+amp_mean 78945.5
+amp_sigm 291.3
+abs_gain 335.2
+abs_gErr 25.4
+
+G40_O120_Ch1_PulseIn_20191119_115129.txt
+amp_mean 55702.8
+amp_sigm 194.7
+abs_gain 236.5
+abs_gErr 17.9
+
+G25_O120_Ch1_PulseIn_20191119_115044.txt
+amp_mean 38765
+amp_sigm 134
+abs_gain 164.6
+abs_gErr 12.4
+
+G25_O120_Ch1_PulseIn_20191119_115045.txt
+amp_mean 38780.4
+amp_sigm 127.6
+abs_gain 164.7
+abs_gErr 12.5
+
+G40_O120_Ch1_PulseIn_20191119_115128.txt
+amp_mean 55709.3
+amp_sigm 192.9
+abs_gain 236.5
+abs_gErr 17.9
+
+G25_O120_Ch1_PulseIn_20191119_115047.txt
+amp_mean 38769.5
+amp_sigm 130
+abs_gain 164.6
+abs_gErr 12.4
+
+G30_O120_Ch1_PulseIn_20191119_115100.txt
+amp_mean 44849.2
+amp_sigm 148
+abs_gain 190.4
+abs_gErr 14.4
+
+G30_O120_Ch1_PulseIn_20191119_115101.txt
+amp_mean 44847.4
+amp_sigm 151
+abs_gain 190.4
+abs_gErr 14.4
+
+CF1_O120_Ch1_PulseIn_20191119_114920.txt
+amp_mean 45987.1
+amp_sigm 179.9
+abs_gain 195.3
+abs_gErr 14.8
+
+CF1_O120_Ch1_PulseIn_20191119_114918.txt
+amp_mean 46000
+amp_sigm 186.3
+abs_gain 195.3
+abs_gErr 14.8
+
+G30_O120_Ch1_PulseIn_20191119_115058.txt
+amp_mean 44845.7
+amp_sigm 147.4
+abs_gain 190.4
+abs_gErr 14.4
+
+G45_O120_Ch1_PulseIn_20191119_115137.txt
+amp_mean 61099.4
+amp_sigm 214.3
+abs_gain 259.4
+abs_gErr 19.6
+
+G35_O120_Ch1_PulseIn_20191119_115109.txt
+amp_mean 50535.2
+amp_sigm 172.1
+abs_gain 214.6
+abs_gErr 16.2
+

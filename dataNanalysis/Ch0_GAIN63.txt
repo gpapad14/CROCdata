@@ -1,0 +1,6 @@
+inp_Ampl inp_AmplErr out_Ampl outp_AmplErr
+17058.9 2657 63 73.96
+5352.99 2717 63 23.21
+inp_Ampl inp_AmplErr out_Ampl outp_AmplErr
+17058.9 2657 63 73.96
+5352.99 2717 63 23.21

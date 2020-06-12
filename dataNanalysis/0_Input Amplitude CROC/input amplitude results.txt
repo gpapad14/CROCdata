@@ -1,0 +1,69 @@
+INA1F.CSV
+Amplitude = 0.99 +/- 0.04 mV (3.8%)
+Recon Ampli = 0.989 +/- 0.013 mV (1.3%)
+INA1F01.CSV
+Amplitude = 0.99 +/- 0.04 mV (3.9%)
+Recon Ampli = 0.991 +/- 0.014 mV (1.4%)
+INA3F.CSV
+Amplitude = 2.96 +/- 0.04 mV (1.4%)
+Recon Ampli = 2.966 +/- 0.012 mV (0.4%)
+INA3F01.CSV
+Amplitude = 2.96 +/- 0.04 mV (1.3%)
+Recon Ampli = 2.964 +/- 0.013 mV (0.43%)
+INA3F02.CSV
+Amplitude = 2.96 +/- 0.04 mV (1.4%)
+Recon Ampli = 2.965 +/- 0.013 mV (0.45%)
+INA5F.CSV
+Amplitude = 4.93 +/- 0.05 mV (0.93%)
+Recon Ampli = 4.936 +/- 0.012 mV (0.25%)
+INA5F01.CSV
+Amplitude = 4.93 +/- 0.05 mV (0.93%)
+Recon Ampli = 4.936 +/- 0.012 mV (0.25%)
+INA5F02.CSV
+Amplitude = 4.93 +/- 0.05 mV (0.94%)
+Recon Ampli = 4.936 +/- 0.013 mV (0.27%)
+INA7F.CSV
+Amplitude = 6.9 +/- 0.05 mV (0.68%)
+Recon Ampli = 6.907 +/- 0.013 mV (0.18%)
+INA7F01.CSV
+Amplitude = 6.9 +/- 0.05 mV (0.68%)
+Recon Ampli = 6.908 +/- 0.012 mV (0.18%)
+INA7F02.CSV
+Amplitude = 6.9 +/- 0.05 mV (0.68%)
+Recon Ampli = 6.905 +/- 0.012 mV (0.18%)
+INA9F.CSV
+Amplitude = 8.88 +/- 0.05 mV (0.54%)
+Recon Ampli = 8.88 +/- 0.012 mV (0.14%)
+INA9F01.CSV
+Amplitude = 8.88 +/- 0.05 mV (0.54%)
+Recon Ampli = 8.88 +/- 0.012 mV (0.14%)
+INA9F02.CSV
+Amplitude = 8.88 +/- 0.05 mV (0.54%)
+Recon Ampli = 8.883 +/- 0.012 mV (0.13%)
+INA10F.CSV
+Amplitude = 9.9 +/- 0.07 mV (0.66%)
+Recon Ampli = 9.899 +/- 0.013 mV (0.13%)
+INA10F01.CSV
+Amplitude = 9.9 +/- 0.07 mV (0.66%)
+Recon Ampli = 9.901 +/- 0.013 mV (0.14%)
+INA10F02.CSV
+Amplitude = 9.9 +/- 0.07 mV (0.66%)
+Recon Ampli = 9.898 +/- 0.013 mV (0.13%)
+INA11F.CSV
+Amplitude = 10.88 +/- 0.06 mV (0.58%)
+Recon Ampli = 10.884 +/- 0.013 mV (0.12%)
+INA11F01.CSV
+Amplitude = 10.88 +/- 0.06 mV (0.58%)
+Recon Ampli = 10.886 +/- 0.013 mV (0.12%)
+INA11F02.CSV
+Amplitude = 10.88 +/- 0.06 mV (0.58%)
+Recon Ampli = 10.883 +/- 0.013 mV (0.12%)
+INA15F.CSV
+Amplitude = 14.84 +/- 0.07 mV (0.47%)
+Recon Ampli = 14.847 +/- 0.012 mV (0.083%)
+INA15F01.CSV
+Amplitude = 14.84 +/- 0.07 mV (0.47%)
+Recon Ampli = 14.841 +/- 0.013 mV (0.085%)
+INA15F02.CSV
+Amplitude = 14.84 +/- 0.07 mV (0.47%)
+Recon Ampli = 14.839 +/- 0.013 mV (0.09%)

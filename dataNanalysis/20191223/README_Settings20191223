@@ -1,0 +1,11 @@
+Test CROC with input signal passing through the oscilloscope and not. 
+Setup:
+	A) Generator -> BNC cable to T-BNC connector on the oscilloscope -> then split with BNC to SMA cable to CROC_input.
+	B) Generator -> BNC to SMA cable -> CROC_input.
+	The rest of the setup (hard-, firm- and soft-ware) is exactly like the one from date: 20191220
+	For all 10 files the gain(6-bit) is set to 63 (max) and input voltage is 5mV(set).
+
+Results:
+	With the oscilloscope in the setup, there is an oscillation effect in the output amplitude histogram of the CROC. 
+	Without the oscilloscope in the setup, the output amplitude hist gives a beautiful gaussian distribution.
+	The mean of the out ampl hist is more or less the same and so the absolute gain is consistent in both cases.

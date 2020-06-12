@@ -1,0 +1,91 @@
+Date: 19 Nov 2019 (20191119)
+A new CROC chip is used. Batch 008
+Soft and Hardware version 2.
+
+
+Setup:
+	OLD CROC test board.
+	Generator: Keysight 33600A Series Waveform Generator Trueform
+
+Power supply:
+	+12 V -> 190 mA
+	-5 V -> 24 mA
+	+3.3 V -> 0.01 A
+
+Generator: (no attenuator is used)
+	Signal: Pulse
+	Freq: 90kHz
+	High level: 5 mV
+	Low level: 0.0 V
+	Pulse width: 6 us
+	Edge time (both): 2.9ns
+
+	Burst mode: 1 Cycle
+
+	Trigger: External source (the input is located in the back of the generator) from SMA out of FPGA
+	Delay: 7.7us
+	Slope: Rising
+	Level: 1.0 V
+
+	* With this generator and no attenuator the input signal seems a bit more stable in the oscilloscope. Moreover, I can separate the base from the signal level even in gain=4.
+
+LabView 
+	TimeSlice: CROC_GP_TrTSfile.txt
+		measurement period (has 6 conversions) = 20us -> frequency = 50kHz
+		TS1: nothing is active (1000, 2000, 300) ns
+		TS2:
+			delay: 1us
+			clamp: 2us
+			delay: 1+0.08us
+			conv1: 720ns
+			delay: 1us
+			conv2: ...
+			conv3: ...
+			delay: 2us
+			conv6: 720ns
+			delay: 2us
+
+	Settings:
+		TS1 = 2000
+		TS2 = 1
+		conv = 6
+		POL=POLIB=127
+		NEN = V0 = ON
+
+===============================================
+
+Tests to do:
+	for all 4 channels (all 4 are working well:
+		in Transparent mode:
+			1) input Noise vs gain: no input, the input is grounded with a 50Ohm resistor
+			2) Offset scan: offset from 80 to max with a step of 5
+			3) Absolute Gain (calibration): measure well the amplification factor on the BEB board 
+			-> with the same dataset: output noise (ADU and volts) vs gain.  
+		in DSI mode:
+			1) input noise vs gain for different RC
+			2) noise vs gain for diff RC:  
+1) Input Noise, transparent mode, G=[5,10,...60,63]
+	ALL channels together
+	Offset=120
+
+2) Pulse input, ch0, transparent mode
+	measurement period = 20us (not sampling period, each measurement has 6 samples)
+	the other 3 channels are at CF1 with noInput
+	2kSamples, Offset=120
+
+3) DSI mode, input noise
+	2kSamples
+	1us integration time (RU and RD each) with a window of 1us in between	
+	here I have changed the generator settings but only delay width and frequency
+	measurement period or sampling period = 15us
+
+4) DSI mode, pulse input, chX
+	the rest 3 channels at CF1 and RC=1
+	2kSamples
+
+5) F_BEB
+	measurements in transparent mode and CF1 with pulse. 
+	I have measured the differential output of Ch0 of the CROC amplitude before BEB with the oscilloscope.
+		min=22.461mV
+		max=22.852mV
+	10 kSamples

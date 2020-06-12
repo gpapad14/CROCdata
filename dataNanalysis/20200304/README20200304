@@ -1,0 +1,33 @@
+Date: 04 Mar 2020
+CROC in DSI mode, play with Gain(6-bit), RC(6-bit) and integration time parameters.
+
+Setup:
+	TSfile: "CROC_GP_DSITSfile.txt"
+
+	Input pulse signal: Signal from generator to CROC directly
+		5mV amplitude
+		Frequency, delay and pulse width change for different integration times
+		external trigger by FPGA_SMA_out
+		Signal from generator to CROC directly
+
+	Power Supply of BEB3#1:
+		-5V -> 0.024A
+		+12V -> ~0.190A
+		-3.3V -> 0.01A
+
+	LabView "CROC_TEST2.vi":
+		Fixed for all channels: NEN=Vbias=ON, CF1=OFF, DSI mode, OFFSET=120, POL=POLIB=127
+		Input signal to Channel 0. The Ch1,2,3: G=RC=0
+		TS1=2200, TS2=1 (CLAMP and RESETI in TS2, no clock in TS1)
+
+		File names: 
+		G??_RC??_O???_In??_intT?_Ch?_GP_DSI
+		Gain_RC_Offset_InputAmplitude_integrationTime_Channel_"GP_DSI"_DateTime
+			InputAmplitude in mV
+			integrationTime in us
+		Example: G5_RC2_O120_In5_intT1_Ch0_GP_DSI_20200304...
+
+	Parameters changing:
+		integrationT: 0.3, 1, 2, 5, 10 us (5 values)
+		Gain(6bit): 0, 1, 2, 4, 8, 16, 32, 63 (8 values)
+		RC(6bit):   0, 1, 2, 4, 8, 16, 32, 63 (8 values)

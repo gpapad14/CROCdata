@@ -1,0 +1,108 @@
+G63_RC1_O120_Ch0_DSI_PulseIn_20191119_135839.txt
+amp_mean 51597.9
+amp_sigm 31.89
+RCtconst 1.52
+RCtmcErr 0.16
+
+G63_RC7_O120_Ch0_DSI_PulseIn_20191119_135944.txt
+amp_mean 93754.3
+amp_sigm 104.1
+RCtconst 0.838
+RCtmcErr 0.09
+
+G63_RC7_O120_Ch0_DSI_PulseIn_20191119_135943.txt
+amp_mean 93754.9
+amp_sigm 103.7
+RCtconst 0.838
+RCtmcErr 0.09
+
+G63_RC7_O120_Ch0_DSI_PulseIn_20191119_135942.txt
+amp_mean 93755
+amp_sigm 103.6
+RCtconst 0.838
+RCtmcErr 0.09
+
+G63_RC3_O120_Ch0_DSI_PulseIn_20191119_135919.txt
+amp_mean 64857.9
+amp_sigm 51.56
+RCtconst 1.21
+RCtmcErr 0.13
+
+G63_RC3_O120_Ch0_DSI_PulseIn_20191119_135921.txt
+amp_mean 64858.8
+amp_sigm 52.29
+RCtconst 1.21
+RCtmcErr 0.13
+
+G63_RC3_O120_Ch0_DSI_PulseIn_20191119_135922.txt
+amp_mean 64861.9
+amp_sigm 52.16
+RCtconst 1.21
+RCtmcErr 0.13
+
+G63_RC3_O120_Ch0_DSI_PulseIn_20191119_135923.txt
+amp_mean 64863.6
+amp_sigm 51.1
+RCtconst 1.21
+RCtmcErr 0.13
+
+G63_RC5_O120_Ch0_DSI_PulseIn_20191119_135932.txt
+amp_mean 81630.9
+amp_sigm 81.19
+RCtconst 0.963
+RCtmcErr 0.1
+
+G63_RC1_O120_Ch0_DSI_PulseIn_20191119_135842.txt
+amp_mean 51593.1
+amp_sigm 32.68
+RCtconst 1.52
+RCtmcErr 0.16
+
+G63_RC5_O120_Ch0_DSI_PulseIn_20191119_135934.txt
+amp_mean 81635.4
+amp_sigm 79.28
+RCtconst 0.962
+RCtmcErr 0.1
+
+G63_RC5_O120_Ch0_DSI_PulseIn_20191119_135935.txt
+amp_mean 81637.8
+amp_sigm 81.89
+RCtconst 0.962
+RCtmcErr 0.1
+
+G63_RC5_O120_Ch0_DSI_PulseIn_20191119_135936.txt
+amp_mean 81631
+amp_sigm 80.51
+RCtconst 0.963
+RCtmcErr 0.1
+
+G63_RC1_O120_Ch0_DSI_PulseIn_20191119_135840.txt
+amp_mean 51594.3
+amp_sigm 31.22
+RCtconst 1.52
+RCtmcErr 0.16
+
+G63_RC9_O120_Ch0_DSI_PulseIn_20191119_135954.txt
+amp_mean 127465
+amp_sigm 176.1
+RCtconst 0.616
+RCtmcErr 0.066
+
+G63_RC9_O120_Ch0_DSI_PulseIn_20191119_135951.txt
+amp_mean 127468
+amp_sigm 185
+RCtconst 0.616
+RCtmcErr 0.066
+
+G63_RC9_O120_Ch0_DSI_PulseIn_20191119_135950.txt
+amp_mean 127474
+amp_sigm 177.6
+RCtconst 0.616
+RCtmcErr 0.066
+
+G63_RC9_O120_Ch0_DSI_PulseIn_20191119_135952.txt
+amp_mean 127460
+amp_sigm 178.7
+RCtconst 0.616
+RCtmcErr 0.066
+
